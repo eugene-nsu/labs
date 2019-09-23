@@ -47,7 +47,7 @@ public:
 				if (0 == t) return 1;
 			}
 		}
-		return 0;
+		//return 0;
 	}
 
 	char is_next() {
