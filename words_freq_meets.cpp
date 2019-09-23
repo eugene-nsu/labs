@@ -216,4 +216,4 @@ void print_freq_table(word * word, unsigned int& word_count, ofstream& out) {
 		out << "word count= " << word_count;
 	}
 }
-//test git
+//test git commit
